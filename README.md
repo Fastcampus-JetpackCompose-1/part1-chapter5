@@ -1,12 +1,12 @@
-# Part4 Chapter5
+# part1 Chapter5
 
-Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
+part1 Chapter5의 예제와 실습을 모두 담고 있습니다.
 
 [최종본](../../tree/final)과 비교해보세요.
 
-## Compose ViewModel 실습코드 (part4-chapter5-2)
+## Compose ViewModel 실습코드 (part1-chapter5-2)
 
-[part4-chapter5-2](part4-chapter5-2) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-2](part1-chapter5-2) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![ViewModel 예](./screenshots/viewmodel.png)
 
@@ -29,9 +29,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
  * 단계 5: `toDoList`, `onSubmit`, `onEdit`, `onToggle`,
   `onDelete`를 모두 뷰 모델로 옮겨봅시다.
 
-## Compose ViewModel 실습코드 (part4-chapter5-3)
+## Compose ViewModel 실습코드 (part1-chapter5-3)
 
-[part4-chapter5-3](part4-chapter5-3) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-3](part1-chapter5-3) 디렉토리를 Android Studio에서 오픈하세요.
 
  * 단계 1: "androidx.compose.runtime:runtime-livedata:$compose_ui_version" 의존성을 추가합니다.
 
@@ -42,9 +42,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
   모든 연산에서 List를 새로 만들어 라이브 데이터로 전달해야 합니다!!!
   (초 비추!!)
 
-## Compose CompositionLocal 실습코드 (part4-chapter5-4)
+## Compose CompositionLocal 실습코드 (part1-chapter5-4)
 
-[part4-chapter5-4](part4-chapter5-4) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-4](part1-chapter5-4) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![Composition Local 예](./screenshots/composition-local.png)
 
@@ -67,9 +67,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
  * 단계 6: LocalElevation의 값을 `CompositionLocalProvider`로
   바꾸어 봅시다.
 
-## Compose Theme 실습코드 (part4-chapter5-5)
+## Compose Theme 실습코드 (part1-chapter5-5)
 
-[part4-chapter5-5](part4-chapter5-5) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-5](part1-chapter5-5) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![Theme 예](./screenshots/theme.png)
 
@@ -82,9 +82,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
 
  * 단계 4: `body1`의 `fontSize`를 변경해봅시다.
 
-## Compose Navigation 실습코드 (part4-chapter5-6)
+## Compose Navigation 실습코드 (part1-chapter5-6)
 
-[part4-chapter5-6](part4-chapter5-6) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-6](part1-chapter5-6) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![Navigation 예](./screenshots/navigation.png)
 
@@ -123,9 +123,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
   `arguments?.get("userId")`을 받아 출력하세요.
   "Argument/fastcampus"로 이동하는 버튼을 만들어보세요.
 
-## Compose DI 실습코드 (part4-chapter5-7)
+## Compose DI 실습코드 (part1-chapter5-7)
 
-[part4-chapter5-7](part4-chapter5-7) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-7](part1-chapter5-7) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![DI 예](./screenshots/di.png)
 
@@ -142,9 +142,9 @@ Part4 Chapter5의 예제와 실습을 모두 담고 있습니다.
 
  * 단계 7: 생성자에 @Inject를 붙여줍시다.
 
-## Compose Pokemon 실습코드 (part4-chapter5-9)
+## Compose Pokemon 실습코드 (part1-chapter5-9)
 
-[part4-chapter5-9](part4-chapter5-9) 디렉토리를 Android Studio에서 오픈하세요.
+[part1-chapter5-9](part1-chapter5-9) 디렉토리를 Android Studio에서 오픈하세요.
 
 ![Pokemon 예](./screenshots/pokemon.png)
 

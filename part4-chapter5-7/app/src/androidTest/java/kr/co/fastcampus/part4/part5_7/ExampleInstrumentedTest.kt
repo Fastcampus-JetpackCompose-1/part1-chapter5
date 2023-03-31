@@ -1,4 +1,4 @@
-package kr.co.fastcampus.part4.part5_7
+package kr.co.fastcampus.part1.part5_7
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("kr.co.fastcampus.part4.part5_7", appContext.packageName)
+        assertEquals("kr.co.fastcampus.part1.part5_7", appContext.packageName)
     }
 }

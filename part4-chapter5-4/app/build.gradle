@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'kr.co.fastcampus.part4.chapter5_4'
+    namespace 'kr.co.fastcampus.part1.chapter5_4'
     compileSdk 32
 
     defaultConfig {
-        applicationId "kr.co.fastcampus.part4.chapter5_4"
+        applicationId "kr.co.fastcampus.part1.chapter5_4"
         minSdk 21
         targetSdk 32
         versionCode 1
